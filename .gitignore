@@ -1,5 +1,12 @@
 # Created by https://www.gitignore.io/api/git,code,linux,django,python,pycharm,pycharm+all
 # Edit at https://www.gitignore.io/?templates=git,code,linux,django,python,pycharm,pycharm+all
+### Database ###
+*.accdb
+*.db
+*.dbf
+*.mdb
+*.pdb
+*.sqlite3
 
 ### Code ###
 .vscode
